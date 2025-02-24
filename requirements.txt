@@ -1,0 +1,11 @@
+tensorflow
+keras
+numpy
+opencv-python
+mediapipe
+torch
+torchvision
+torchaudio
+matplotlib
+pandas
+scikit-learn
